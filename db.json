@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "spaghettis",
+      "precio": "1500",
+      "id": 1
+    },
+    {
+      "nombre": "atun",
+      "precio": 600,
+      "id": 2
+    },
+    {
+      "nombre": "Salsa para fideos",
+      "precio": 100,
+      "id": 3
+    }
+  ]
+}
